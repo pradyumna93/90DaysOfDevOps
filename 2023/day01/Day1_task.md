@@ -1,0 +1,8 @@
+What is DevOps?
+DevOps is a methodology that involves a set of practices and tools for improving collaboration and communication between development and operations teams. The goal of DevOps is to increase the speed and reliability of software delivery by automating the process of building, testing, and deploying software. This is achieved through the use of tools such as continuous integration and continuous delivery (CI/CD), infrastructure as code, and monitoring and logging. By implementing DevOps practices, organizations can reduce the time it takes to bring new features and updates to their customers, while also increasing the stability and security of their systems.
+
+What are Automation, Scaling, and Infrastructure?
+Automation is a technology that performs tasks without human intervention. Automation is used in software tools and scripts to perform respective and complex tasks such as software development, data management, system configuration, etc. Scaling is the process of adjusting the capacity of a system to handle an increase or decrease in demand. This can be done by adding or removing servers, storage, or network bandwidth on demand. Infrastructure is the physical and logical components that are needed to support the operation of a system. This can be servers, storage, network equipment,  and other hardware, as well as software and tools for managing infrastructure. 
+
+Why is DevOps Important? 
+DevOps is important because it helps organizations deliver software faster and more reliably. Includes automation for speeding up and stabilizing releases. DevOps enables more agile organizations on customer needs and  helps to be more effective in the market
